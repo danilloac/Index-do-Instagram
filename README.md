@@ -1,2 +1,2 @@
-# Index-do-Instagram
-Recriando a página inicial do instagram
+# Clone Instagram
+Recriando a página inicial do Instagram. 
